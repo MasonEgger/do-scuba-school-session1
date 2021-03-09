@@ -8,3 +8,12 @@ h1 {
 p {
   color: plum
 }
+
+img{
+  width: 200px;
+}
+
+.blue-img {
+  border: 5px dotted blue;
+  border-radius: 10%;
+}
